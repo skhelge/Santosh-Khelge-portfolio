@@ -13,20 +13,28 @@
                 "showAuthor": false,
                 "showExcerpt": true,
                 "showReadMoreLink": true,
-                "posts": ["content/pages/blog/post-five.md", "content/pages/blog/post-four.md"],
+                "posts": [
+                    "content/pages/blog/post-five.md",
+                    "content/pages/blog/post-four.md"
+                ],
                 "actions": [
                     {
                         "type": "Link",
                         "label": "See all posts",
                         "altText": "See all posts",
-                        "url": "/blog"
+                        "url": "https://medium.com/@khelge"
                     }
                 ],
                 "styles": {
                     "self": {
                         "height": "auto",
                         "width": "wide",
-                        "padding": ["pt-24", "pb-24", "pl-4", "pr-4"],
+                        "padding": [
+                            "pt-24",
+                            "pb-24",
+                            "pl-4",
+                            "pr-4"
+                        ],
                         "textAlign": "left"
                     }
                 }
@@ -61,7 +69,12 @@
                     "self": {
                         "height": "auto",
                         "width": "wide",
-                        "padding": ["pt-24", "pb-24", "pl-4", "pr-4"],
+                        "padding": [
+                            "pt-24",
+                            "pb-24",
+                            "pl-4",
+                            "pr-4"
+                        ],
                         "textAlign": "left"
                     }
                 }
@@ -79,13 +92,20 @@
                 "showAuthor": false,
                 "showExcerpt": true,
                 "showReadMoreLink": true,
-                "posts": ["content/pages/blog/post-five.md"],
+                "posts": [
+                    "content/pages/blog/post-five.md"
+                ],
                 "actions": [],
                 "styles": {
                     "self": {
                         "height": "auto",
                         "width": "wide",
-                        "padding": ["pt-24", "pb-24", "pl-4", "pr-4"],
+                        "padding": [
+                            "pt-24",
+                            "pb-24",
+                            "pl-4",
+                            "pr-4"
+                        ],
                         "textAlign": "left"
                     }
                 }
@@ -120,7 +140,12 @@
                     "self": {
                         "height": "auto",
                         "width": "wide",
-                        "padding": ["pt-24", "pb-24", "pl-4", "pr-4"],
+                        "padding": [
+                            "pt-24",
+                            "pb-24",
+                            "pl-4",
+                            "pr-4"
+                        ],
                         "textAlign": "left"
                     }
                 }
@@ -155,7 +180,12 @@
                     "self": {
                         "height": "auto",
                         "width": "wide",
-                        "padding": ["pt-24", "pb-24", "pl-4", "pr-4"],
+                        "padding": [
+                            "pt-24",
+                            "pb-24",
+                            "pl-4",
+                            "pr-4"
+                        ],
                         "textAlign": "left"
                     }
                 }

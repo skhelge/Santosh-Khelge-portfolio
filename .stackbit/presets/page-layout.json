@@ -25,7 +25,12 @@
                             "self": {
                                 "height": "auto",
                                 "width": "narrow",
-                                "padding": ["pt-12", "pb-36", "pl-4", "pr-4"],
+                                "padding": [
+                                    "pt-12",
+                                    "pb-36",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "textAlign": "left"
                             }
                         }
@@ -50,8 +55,8 @@
                     {
                         "type": "HeroSection",
                         "colors": "colors-f",
-                        "title": "I'm a developer, digital artist, consultant and a bunch of other impressive titles and buzz words.",
-                        "subtitle": "This is my info — I'm sharing it all this with ya'll to impress you with all the hard work I've done in the past few years. Once you're impressed, you can continue to scroll down to see more details and credentials about me.",
+                        "title": "I'm a SRE, DevOps and GenAI generalist, Presently associated with Amadeus Labs Bangalore. I have 10+ years of experience in the IT",
+                        "subtitle": "This is my info — I'm sharing it all this with all,  you can continue to scroll down to see more details about me :)",
                         "actions": [],
                         "media": null,
                         "backgroundSize": "full",
@@ -59,7 +64,12 @@
                             "self": {
                                 "height": "auto",
                                 "width": "wide",
-                                "padding": ["pt-36", "pb-48", "pl-4", "pr-4"],
+                                "padding": [
+                                    "pt-36",
+                                    "pb-48",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "flexDirection": "row",
                                 "textAlign": "left"
                             }
@@ -91,7 +101,12 @@
                             "self": {
                                 "height": "auto",
                                 "width": "wide",
-                                "padding": ["pt-24", "pb-24", "pl-4", "pr-4"],
+                                "padding": [
+                                    "pt-24",
+                                    "pb-24",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "textAlign": "left"
                             }
                         }
@@ -121,7 +136,12 @@
                             "self": {
                                 "height": "auto",
                                 "width": "narrow",
-                                "padding": ["pt-24", "pb-24", "pl-4", "pr-4"],
+                                "padding": [
+                                    "pt-24",
+                                    "pb-24",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "textAlign": "left"
                             }
                         }
@@ -185,7 +205,12 @@
                             "self": {
                                 "height": "auto",
                                 "width": "narrow",
-                                "padding": ["pt-24", "pb-24", "pl-4", "pr-4"],
+                                "padding": [
+                                    "pt-24",
+                                    "pb-24",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "flexDirection": "row",
                                 "textAlign": "left"
                             }
@@ -224,7 +249,12 @@
                             "self": {
                                 "height": "auto",
                                 "width": "wide",
-                                "padding": ["pt-36", "pb-48", "pl-4", "pr-4"],
+                                "padding": [
+                                    "pt-36",
+                                    "pb-48",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "flexDirection": "row",
                                 "textAlign": "left"
                             }
@@ -235,7 +265,12 @@
                         "styles": {
                             "self": {
                                 "width": "wide",
-                                "padding": ["pt-12", "pb-12", "pl-0", "pr-0"],
+                                "padding": [
+                                    "pt-12",
+                                    "pb-12",
+                                    "pl-0",
+                                    "pr-0"
+                                ],
                                 "borderWidth": 1
                             }
                         }
@@ -281,7 +316,12 @@
                             "self": {
                                 "height": "auto",
                                 "width": "wide",
-                                "padding": ["pt-12", "pb-12", "pl-4", "pr-4"],
+                                "padding": [
+                                    "pt-12",
+                                    "pb-12",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "textAlign": "center"
                             }
                         }
@@ -291,7 +331,12 @@
                         "styles": {
                             "self": {
                                 "width": "wide",
-                                "padding": ["pt-12", "pb-12", "pl-0", "pr-0"],
+                                "padding": [
+                                    "pt-12",
+                                    "pb-12",
+                                    "pl-0",
+                                    "pr-0"
+                                ],
                                 "borderWidth": 1
                             }
                         }
@@ -340,7 +385,12 @@
                         "styles": {
                             "self": {
                                 "width": "wide",
-                                "padding": ["pt-12", "pb-12", "pl-0", "pr-0"],
+                                "padding": [
+                                    "pt-12",
+                                    "pb-12",
+                                    "pl-0",
+                                    "pr-0"
+                                ],
                                 "borderWidth": 1
                             }
                         }
@@ -361,7 +411,7 @@
                                         "type": "Link",
                                         "label": "GitHub",
                                         "showIcon": false,
-                                        "url": "https://github.com/"
+                                        "url": "https://github.com/skhelge"
                                     }
                                 ],
                                 "styles": {
@@ -379,7 +429,7 @@
                                         "type": "Link",
                                         "label": "X (Twitter)",
                                         "showIcon": false,
-                                        "url": "https://twitter.com/"
+                                        "url": "https://x.com/skhelge"
                                     }
                                 ],
                                 "styles": {
@@ -397,7 +447,7 @@
                                         "type": "Link",
                                         "label": "LinkedIn",
                                         "showIcon": false,
-                                        "url": "https://www.linkedin.com/"
+                                        "url": "https://www.linkedin.com/in/santosh-khelge-4646b239/"
                                     }
                                 ],
                                 "styles": {
@@ -466,8 +516,18 @@
                             "self": {
                                 "height": "auto",
                                 "width": "wide",
-                                "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
-                                "padding": ["pt-28", "pb-36", "pl-4", "pr-4"],
+                                "margin": [
+                                    "mt-0",
+                                    "mb-0",
+                                    "ml-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-28",
+                                    "pb-36",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "textAlign": "center"
                             }
                         }
@@ -477,7 +537,12 @@
                         "styles": {
                             "self": {
                                 "width": "wide",
-                                "padding": ["pt-12", "pb-12", "pl-0", "pr-0"],
+                                "padding": [
+                                    "pt-12",
+                                    "pb-12",
+                                    "pl-0",
+                                    "pr-0"
+                                ],
                                 "borderWidth": 1
                             }
                         }
@@ -541,7 +606,12 @@
                             "self": {
                                 "height": "auto",
                                 "width": "narrow",
-                                "padding": ["pt-24", "pb-24", "pl-4", "pr-4"],
+                                "padding": [
+                                    "pt-24",
+                                    "pb-24",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
                                 "flexDirection": "row",
                                 "textAlign": "left"
                             }
